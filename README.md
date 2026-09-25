@@ -1,2 +1,2 @@
 # leechblock-blocklist
-a personal list of 
+a personal list of distracting websites

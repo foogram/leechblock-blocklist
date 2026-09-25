@@ -1,0 +1,5 @@
+*.technologyreview.com
+spectrum.ieee.org
+pinboard.in/popular
+dev.to
+hn.algolia.com
