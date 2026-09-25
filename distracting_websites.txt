@@ -3,3 +3,5 @@ spectrum.ieee.org
 pinboard.in/popular
 dev.to
 hn.algolia.com
+*.arena.ai*
+*.artificialanalysis.ai*
